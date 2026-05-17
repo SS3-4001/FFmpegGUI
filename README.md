@@ -2,7 +2,7 @@
 一个比较普通的，FFmpeg的GUI工具，还在更新中
 # FFmpeg GUI Neptune
 
-一个用 PyQt6 写的 FFmpeg 图形界面工具，目前支持 23+ 功能。
+一个用 PyQt6 写的 FFmpeg 图形界面工具，目前支持 10+ 功能。
 
 ## 功能
 - 格式转换 / 压缩 / 裁剪 / 水印...
